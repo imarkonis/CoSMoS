@@ -1,5 +1,5 @@
 ---
-title: "CoSMoS - A Complete Stochatic Modelling Solution"
+title: "CoSMoS - A Complete Stochastic Modelling Solution"
 author: "Filip Strnad, Simon Papalexiou, Yannis Markonis"
 date: "`r Sys.Date()`"
 output: 
